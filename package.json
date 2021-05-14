@@ -1,0 +1,24 @@
+{
+  "name": "discite-api",
+  "version": "1.0.0",
+  "description": "Project focused in learning tools for conectivity and gamification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanHJH/discite-api.git"
+  },
+  "author": "AlanHJH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlanHJH/discite-api/issues"
+  },
+  "homepage": "https://github.com/AlanHJH/discite-api#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1"
+  }
+}
