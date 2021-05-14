@@ -1,5 +1,5 @@
 # discite-api
 API for the discite project
 
-#disclaimer
+# disclaimer
 this project is still in the prototyping stage don't expect a lot 
